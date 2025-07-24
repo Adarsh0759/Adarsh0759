@@ -14,7 +14,8 @@ Currently diving deep into:<br>
 Let’s connect, collaborate, or just vibe over tech, design, or creative projects!<br>
 
 📸 let's connect on instagram [Instagram](https://www.instagram.com/_worry.wart_/)<br>
-💼 lets connect on Linkedin [LinkedIn](https://www.linkedin.com/in/adarsh-anand-9a1914290/)<br>
+💼 lets connect on Linkedin [LinkedIn](https://www.linkedin.com/in/adarsh-anand-9a1914290/)
+<br>
 
 
 ## 🌐 Socials:
