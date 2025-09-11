@@ -9,7 +9,7 @@ Currently diving deep into:<br>
 ⚙  Full Stack Web Development<br>
 👁️‍🗨️ Computer Vision<br>
 🧠 DSA & Algorithms<br>
-🔐 Cybersecurity (soon!)<br>
+🔐 Cloud<br>
 
 Let’s connect, collaborate, or just vibe over tech, design, or creative projects!<br>
 
