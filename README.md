@@ -1,27 +1,80 @@
-## Hi, I’m Adarsh Anand!<br>
-💻 Computer Science student at SRM Institute of Science and Technology<br>
-🎨 Tech enthusiast with a flair for clean UI and consistent design<br>
+## Hi, I’m Adarsh Anand! 👋<br>
+💻 Computer Science undergraduate at **SRM Institute of Science and Technology**<br>
+📊 CGPA: **9.7 / 10.0**<br>
 
-I love building themed desktop apps and websites that not only work flawlessly but also look and feel great ✨<br>
-Consistency in design = peace of mind!
+I enjoy building **practical software projects** that involve data processing, APIs, and applied machine learning.  
+I focus on writing **clean, readable code** and understanding how systems behave in real-world scenarios.
 
-Currently diving deep into:<br>
-⚙  Full Stack Web Development<br>
-👁️‍🗨️ Computer Vision<br>
-🧠 DSA & Algorithms<br>
-🔐 Cloud<br>
+Currently exploring and strengthening fundamentals across backend development, computer vision, and problem-solving.
 
-Let’s connect, collaborate, or just vibe over tech, design, or creative projects!<br>
+---
 
-📸 let's connect on instagram [Instagram](https://www.instagram.com/_worry.wart_/)<br>
-💼 lets connect on Linkedin [LinkedIn](https://www.linkedin.com/in/adarsh-anand-9a1914290/)<br>
+### 🚀 Currently working on
+⚙️ Full Stack fundamentals (React, Node.js)<br>
+👁️ Computer Vision using OpenCV & YOLO<br>
+🧠 Data Structures & Algorithms<br>
+☁️ Cloud fundamentals<br>
 
+Always open to learning, collaboration, and constructive feedback.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_worry.wart_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-anand-9a1914290/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adarshchotu09@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+### 🌐 Connect with me
+💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/adarsh-anand-9a1914290)<br>
+📂 Portfolio: [Portfolio](https://adarsh0759.github.io/Adarsh-Anand/)<br>
+📸 Instagram: [Instagram](https://www.instagram.com/_worry.wart_/)
+
+---
+
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-anand-9a1914290/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_worry.wart_)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emailme.adarshanand@gmail.com)
+
+---
+
+## 💻 Tech Stack
+**Languages & Fundamentals**  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+**Web & Backend (Basics)**  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+**Databases**  
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Computer Vision / ML**  
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge)
+
+**Tools**  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+- **Workplace Safety Analyzer**  
+  Computer vision–based system to detect PPE compliance using OpenCV and YOLOv8, with a Flask backend for logging safety events.
+
+- **AI-Powered Travel Recommendation System**  
+  Content-based recommendation system using KNN (cosine similarity) and Logistic Regression.
+
+- **Store Management System**  
+  PHP + MySQL application with inventory tracking, billing, and alerts.
+
+---
+
+## 📈 Problem Solving
+- Solved **350+ DSA problems** on GeeksforGeeks  
+- **Institute Rank 167** on GeeksforGeeks  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Adarsh0759&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Adarsh0759&theme=dark&hide_border=false)<br/>
