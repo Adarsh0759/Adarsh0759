@@ -74,7 +74,9 @@ Always open to learning, collaboration, and constructive feedback.
 
 ## 📈 Problem Solving
 - Solved **350+ DSA problems** on GeeksforGeeks  
-- **Institute Rank 167** on GeeksforGeeks  
+- **Institute Rank 167** on GeeksforGeeks
+
+- 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Adarsh0759&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Adarsh0759&theme=dark&hide_border=false)<br/>
