@@ -21,7 +21,7 @@ Always open to learning, collaboration, and constructive feedback.
 
 ### 🌐 Connect with me
 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/adarsh-anand-9a1914290)<br>
-📂 Portfolio: [Portfolio](https://adarsh0759.github.io/Adarsh-Anand/)<br>
+📂 Portfolio: [Portfolio](https://engineeradarsh.online/)<br>
 📸 Instagram: [Instagram](https://www.instagram.com/_worry.wart_/)
 
 ---
