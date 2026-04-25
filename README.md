@@ -1,6 +1,6 @@
 ## Hi, I’m Adarsh Anand! 👋<br>
 💻 Computer Science undergraduate at **SRM Institute of Science and Technology**<br>
-📊 CGPA: **9.7 / 10.0**<br>
+📊 CGPA: **9.72 / 10.0**<br>
 
 I enjoy building **practical software projects** that involve data processing, APIs, and applied machine learning.  
 I focus on writing **clean, readable code** and understanding how systems behave in real-world scenarios.
